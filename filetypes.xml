@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="OP0031F04" type="AUTO_DETECTED" />
+      <mapping pattern="OP0032F04" type="AUTO_DETECTED" />
       <mapping pattern="OP0031F05" type="AUTO_DETECTED" />
       <mapping pattern="aaa" type="AUTO_DETECTED" />
       <mapping pattern="OP0033F04" type="AUTO_DETECTED" />
